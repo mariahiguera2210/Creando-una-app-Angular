@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.navbar-toggler, .btn-close{
+    margin-right:3%;
+}
+.container-fluid{
+    height: 60px;
+    display: flex;
+    background-color:  rgb(227, 209, 243);
+    justify-content: right;
+}
+img {
+    max-width: auto;
+    max-height: 60%;
+    margin: 5px;
+    
+  }
+button{
+    margin-left: 2%;
+}
+
